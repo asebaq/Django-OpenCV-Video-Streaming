@@ -7,19 +7,20 @@ django-cors-headers
 DateTime==4.5
 
 numpy==1.23.3
-opencv-python==4.5.3.56
+opencv-python==4.5.4.60
 
 imutils==0.5.3
 requests>=2.20.0
-tensorflow==2.7.2
-keras==2.7.0
+tensorflow==2.8.2
+keras==2.8.0
 Pillow==9.0.1
 requests-html==0.10.0
 channels==4.0.0
 daphne==2.5.0
 whitenoise==6.4.0
 psycopg2-binary
-protobuf==3.20.*
+protobuf==3.19.*
 pyngrok==5.2.1
 
+dlib
 django-on-heroku
